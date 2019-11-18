@@ -18,6 +18,5 @@ def find_the_cheese(array)
     if cheese_types.include?(obj) 
       return obj
     end
-  return nil
   end
 end
